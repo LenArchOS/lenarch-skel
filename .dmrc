@@ -1,5 +1,5 @@
 [Desktop]
 ## Set Default Session
-Session=cinnamon
-#Session=openbox
+#Session=cinnamon
+Session=openbox
 #Session=bspwm
