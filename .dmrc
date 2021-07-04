@@ -1,5 +1,6 @@
 [Desktop]
 ## Set Default Session
+Session=kde-plasma
 #Session=cinnamon
-Session=openbox
+#Session=openbox
 #Session=bspwm
